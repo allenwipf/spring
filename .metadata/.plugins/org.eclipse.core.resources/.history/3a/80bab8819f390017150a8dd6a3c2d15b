@@ -1,0 +1,5 @@
+package com.allenwipf.service.demo;
+
+public class WelcomeService {
+
+}
